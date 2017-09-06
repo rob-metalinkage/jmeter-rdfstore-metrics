@@ -1,0 +1,133 @@
+elapsed,label,success,Latency,IdleTime,Connect
+117,Create repo 0,true,60,0,4
+8,insert 1 memory d=0 1 ,true,0,0,0
+13,insert 1 memory d=0 2 ,true,0,0,0
+5,insert 1 memory d=0 3 ,true,0,0,0
+10,insert 2 memory d=0 1 ,true,0,0,0
+11,insert 2 memory d=0 2 ,true,0,0,0
+5,insert 2 memory d=0 3 ,true,0,0,0
+10,insert 3 memory d=0 1 ,true,0,0,0
+11,insert 3 memory d=0 2 ,true,0,0,0
+6,insert 3 memory d=0 3 ,true,0,0,0
+14,Delete repository,true,0,0,0
+95,Create repo 0,true,56,0,0
+8,insert 1 memory d=500 1 ,true,0,0,0
+27,insert 1 memory d=500 2 ,true,0,0,0
+10,insert 1 memory d=500 3 ,true,0,0,0
+8,insert 2 memory d=500 1 ,true,0,0,0
+12,insert 2 memory d=500 2 ,true,0,0,0
+29,insert 2 memory d=500 3 ,true,0,0,0
+14,insert 3 memory d=500 1 ,true,0,0,0
+72,insert 3 memory d=500 2 ,true,0,0,0
+21,insert 3 memory d=500 3 ,true,0,0,0
+21,Delete repository,true,0,0,0
+79,Create repo 0,true,67,0,0
+10,insert 1 memory d=1000 1 ,true,0,0,0
+23,insert 1 memory d=1000 2 ,true,0,0,0
+9,insert 1 memory d=1000 3 ,true,0,0,0
+29,insert 2 memory d=1000 1 ,true,0,0,0
+40,insert 2 memory d=1000 2 ,true,0,0,0
+15,insert 2 memory d=1000 3 ,true,0,0,0
+7,insert 3 memory d=1000 1 ,true,0,0,0
+5,insert 3 memory d=1000 2 ,true,0,0,0
+30,insert 3 memory d=1000 3 ,true,0,0,0
+7,Delete repository,true,0,0,0
+2098,Create repo 1,true,82,0,0
+15361,insert 1 memory-spin-rdfs d=0 1 ,true,0,0,2
+590,insert 1 memory-spin-rdfs d=0 2 ,true,0,0,2
+517,insert 1 memory-spin-rdfs d=0 3 ,true,0,0,0
+9912,insert 2 memory-spin-rdfs d=0 1 ,true,0,0,0
+10658,insert 2 memory-spin-rdfs d=0 2 ,true,0,0,2
+11938,insert 2 memory-spin-rdfs d=0 3 ,true,0,0,2
+13848,insert 3 memory-spin-rdfs d=0 1 ,true,0,0,1
+14099,insert 3 memory-spin-rdfs d=0 2 ,true,0,0,4
+10568,insert 3 memory-spin-rdfs d=0 3 ,true,0,0,6
+30,Delete repository,true,0,0,2
+2161,Create repo 1,true,76,0,0
+9033,insert 1 memory-spin-rdfs d=500 1 ,true,0,0,11
+475,insert 1 memory-spin-rdfs d=500 2 ,true,0,0,4
+323,insert 1 memory-spin-rdfs d=500 3 ,true,0,0,0
+8592,insert 2 memory-spin-rdfs d=500 1 ,true,0,0,0
+13508,insert 2 memory-spin-rdfs d=500 2 ,true,0,0,4
+12350,insert 2 memory-spin-rdfs d=500 3 ,true,0,0,6
+7859,insert 3 memory-spin-rdfs d=500 1 ,true,0,0,6
+6378,insert 3 memory-spin-rdfs d=500 2 ,true,0,0,187
+12086,insert 3 memory-spin-rdfs d=500 3 ,true,0,0,4
+76,Delete repository,true,0,0,9
+2095,Create repo 1,true,82,0,0
+17091,insert 1 memory-spin-rdfs d=1000 1 ,true,0,0,13
+545,insert 1 memory-spin-rdfs d=1000 2 ,true,0,0,3
+465,insert 1 memory-spin-rdfs d=1000 3 ,true,0,0,0
+12208,insert 2 memory-spin-rdfs d=1000 1 ,true,0,0,0
+12500,insert 2 memory-spin-rdfs d=1000 2 ,true,0,0,3
+12693,insert 2 memory-spin-rdfs d=1000 3 ,true,0,0,4
+16548,insert 3 memory-spin-rdfs d=1000 1 ,true,0,0,3
+16406,insert 3 memory-spin-rdfs d=1000 2 ,true,0,0,6
+16816,insert 3 memory-spin-rdfs d=1000 3 ,true,0,0,3
+65,Delete repository,true,0,0,3
+193,Create repo 2,true,92,0,0
+111,insert 1 native d=0 1 ,true,0,0,0
+137,insert 1 native d=0 2 ,true,0,0,0
+131,insert 1 native d=0 3 ,true,0,0,0
+120,insert 2 native d=0 1 ,true,0,0,0
+156,insert 2 native d=0 2 ,true,0,0,0
+87,insert 2 native d=0 3 ,true,0,0,0
+192,insert 3 native d=0 1 ,true,0,0,0
+197,insert 3 native d=0 2 ,true,0,0,0
+147,insert 3 native d=0 3 ,true,0,0,0
+19,Delete repository,true,0,0,0
+201,Create repo 2,true,61,0,0
+130,insert 1 native d=500 1 ,true,0,0,0
+159,insert 1 native d=500 2 ,true,0,0,0
+150,insert 1 native d=500 3 ,true,0,0,7
+108,insert 2 native d=500 1 ,true,0,0,0
+126,insert 2 native d=500 2 ,true,0,0,0
+140,insert 2 native d=500 3 ,true,0,0,0
+130,insert 3 native d=500 1 ,true,0,0,0
+185,insert 3 native d=500 2 ,true,0,0,0
+134,insert 3 native d=500 3 ,true,0,0,0
+31,Delete repository,true,0,0,0
+264,Create repo 2,true,91,0,0
+166,insert 1 native d=1000 1 ,true,0,0,0
+158,insert 1 native d=1000 2 ,true,0,0,0
+212,insert 1 native d=1000 3 ,true,0,0,0
+264,insert 2 native d=1000 1 ,true,0,0,0
+210,insert 2 native d=1000 2 ,true,0,0,4
+281,insert 2 native d=1000 3 ,true,0,0,0
+140,insert 3 native d=1000 1 ,true,0,0,0
+265,insert 3 native d=1000 2 ,true,0,0,0
+160,insert 3 native d=1000 3 ,true,0,0,0
+29,Delete repository,true,0,0,0
+393,Create repo 3,true,105,0,0
+25313,insert 1 native-spin-rdfs d=0 1 ,true,0,0,0
+281,insert 1 native-spin-rdfs d=0 2 ,true,0,0,7
+564,insert 1 native-spin-rdfs d=0 3 ,true,0,0,0
+23550,insert 2 native-spin-rdfs d=0 1 ,true,0,0,0
+23739,insert 2 native-spin-rdfs d=0 2 ,true,0,0,4
+24535,insert 2 native-spin-rdfs d=0 3 ,true,0,0,4
+20803,insert 3 native-spin-rdfs d=0 1 ,true,0,0,3
+19402,insert 3 native-spin-rdfs d=0 2 ,true,0,0,3
+19540,insert 3 native-spin-rdfs d=0 3 ,true,0,0,12
+27,Delete repository,true,0,0,8
+2074,Create repo 3,true,60,0,0
+25677,insert 1 native-spin-rdfs d=500 1 ,true,0,0,5
+94,insert 1 native-spin-rdfs d=500 2 ,true,0,0,3
+160,insert 1 native-spin-rdfs d=500 3 ,true,0,0,0
+20906,insert 2 native-spin-rdfs d=500 1 ,true,0,0,0
+19163,insert 2 native-spin-rdfs d=500 2 ,true,0,0,5
+20542,insert 2 native-spin-rdfs d=500 3 ,true,0,0,7
+16768,insert 3 native-spin-rdfs d=500 1 ,true,0,0,9
+16345,insert 3 native-spin-rdfs d=500 2 ,true,0,0,2
+21168,insert 3 native-spin-rdfs d=500 3 ,true,0,0,3
+32,Delete repository,true,0,0,2
+2093,Create repo 3,true,71,0,0
+20455,insert 1 native-spin-rdfs d=1000 1 ,true,0,0,8
+116,insert 1 native-spin-rdfs d=1000 2 ,true,0,0,2
+70,insert 1 native-spin-rdfs d=1000 3 ,true,0,0,0
+14926,insert 2 native-spin-rdfs d=1000 1 ,true,0,0,0
+16817,insert 2 native-spin-rdfs d=1000 2 ,true,0,0,3
+19827,insert 2 native-spin-rdfs d=1000 3 ,true,0,0,7
+16277,insert 3 native-spin-rdfs d=1000 1 ,true,0,0,4
+16978,insert 3 native-spin-rdfs d=1000 2 ,true,0,0,2
+17034,insert 3 native-spin-rdfs d=1000 3 ,true,0,0,4
+13,Delete repository,true,0,0,2
